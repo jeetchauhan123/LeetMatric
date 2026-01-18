@@ -52,9 +52,9 @@ https://cors-anywhere.herokuapp.com/
 
 ## ▶️ How to Run the Project
 
-### Clone the repository
 
 ```bash
+### Clone the repository
 git clone https://github.com/jeetchauhan123/LeetMatric.git
 ### Open the project
 - Open the folder in **VS Code** or any code editor  
